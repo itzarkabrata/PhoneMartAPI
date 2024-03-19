@@ -17,10 +17,10 @@ This is a REST API where you can get a large variety of smartphone information w
 <br>
 <h3>Search Queries : </h3>
 <ul>
-  <li><i>brand</i></li>
-  <li><i>memory</i></li>
-  <li><i>rating</i></li>
-  <li><i>maxsellprice</i></li>
-  <li><i>storage</i></li>
+  <li><i>brand=(mobile brand name)</i></li>
+  <li><i>memory=(RAM of the handset in number)</i></li>
+  <li><i>rating=(Eg. 4.5)</i></li>
+  <li><i>maxsellprice=(price)</i></li>
+  <li><i>storage=(storage space of the handset in number)</i></li>
 </ul>
 
