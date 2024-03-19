@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is a Rest api for getting all types of smartphone specification with current and discounted price",
   "main": "index.js",
-  "type": "common.js",
+  "type": "commonjs",
   "scripts": {
     "start": "nodemon index.js"
   },
