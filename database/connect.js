@@ -3,12 +3,12 @@ const { initializeApp } = require("firebase/app");
 const { getDatabase, ref, child, get, query, orderByChild, equalTo,endAt} = require("firebase/database");
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBxtR-83_7bLA4XeutKY_0X5rRip3CyGXs",
-    authDomain: "restapi-e542d.firebaseapp.com",
-    projectId: "restapi-e542d",
-    storageBucket: "restapi-e542d.appspot.com",
-    messagingSenderId: "527348072856",
-    appId: "1:527348072856:web:8aab96444b472737f4abed"
+    apiKey: "AIzaSyA0gOvfNBq33B1ylt5NwpjT5IVzGf1pZkA",
+  authDomain: "phonemartapi.firebaseapp.com",
+  projectId: "phonemartapi",
+  storageBucket: "phonemartapi.appspot.com",
+  messagingSenderId: "700557804686",
+  appId: "1:700557804686:web:ddd2e79988e17dba5db5df"
 };
 
 
